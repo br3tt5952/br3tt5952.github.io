@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cchgaming.club" resolutions="1x" timestamp="1493156890976">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4157172613" ref="index:pc:xbox:playstation:events:discord:members"/>
+    <file name="index.css" crc="4260228685" ref="index"/>
+    <file name="pc.css" crc="97264048" ref="pc"/>
+    <file name="xbox.css" crc="97264048" ref="xbox"/>
+    <file name="playstation.css" crc="97264048" ref="playstation"/>
+    <file name="events.css" crc="3768158552" ref="events"/>
+    <file name="discord.css" crc="3771828471" ref="discord"/>
+    <file name="members.css" crc="530823078" ref="members"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:pc:xbox:playstation:discord:members"/>
+    <file name="museutils.js" crc="4232573551" ref="index:events:pc:xbox:playstation:discord:members"/>
+    <file name="whatinput.js" crc="86476730" ref="index:events:pc:xbox:playstation:discord:members"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:events:pc:xbox:playstation:discord:members"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:events:pc:xbox:playstation:discord:members"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:events:pc:xbox:playstation:discord:members"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:events:pc:xbox:playstation:discord:members"/>
+    <file name="require.js" crc="4234670167" ref="index:events:pc:xbox:playstation:discord:members"/>
+  </folder>
+  <folder name="images">
+    <file name="blue discord logo transparent.jpg" crc="4235764923" seo="true" ref="index:events:pc:xbox:playstation:discord:members">
+      <caption webpage="playstation" alt=""/>
+      <caption webpage="owned-games" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="xbox" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="discord" alt=""/>
+      <caption webpage="pc" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3801496160" seo="true" mt="1493156513779" redirect="true"/>
+  <file name="events.html" crc="310952321" seo="true" mt="1493156513779" redirect="true"/>
+  <file name="pc.html" crc="476913569" seo="true" mt="1493156513779" redirect="true"/>
+  <file name="xbox.html" crc="4068560204" seo="true" mt="1493156513779" redirect="true"/>
+  <file name="playstation.html" crc="92247639" seo="true" mt="1493156513779" redirect="true"/>
+  <file name="discord.html" crc="413046967" seo="true" mt="1493156616945" redirect="true"/>
+  <file name="members.html" crc="3898862263" seo="true" mt="1493156513779" redirect="true"/>
+</manifest>
